@@ -1,0 +1,67 @@
+@media all and ( max-width: 991px){
+
+}
+
+
+@media all and ( max-width: 767px){
+    .Days-wrapper {
+        padding-top: 36px;
+    }
+
+    .counter li {
+        padding: 10px;
+        margin: 0px 25px;
+    }
+    .counter li span {
+      
+        padding-top: 10px;
+    }
+}
+
+
+@media all and ( max-width: 576px){
+  
+    .counter li span {
+        font-size: 3.5rem;
+    }
+  
+    .Days-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 14px;
+    }
+
+    .Launching h1 {
+        font-size: 18px;
+    }
+
+    .Launching p {
+        text-align: center;
+        font-size: 14px;
+        padding: 0px 10px;
+    }
+
+    .arrow-down{
+        font-size: 30px;
+    }
+
+    ol, ul {
+        padding-left: 0rem;
+    }
+
+    .Days-wrapper {
+        padding-top: 36px;
+    }
+
+    .counter li {
+        padding: 10px;
+        margin: 0px 25px;
+    }
+    .counter li span {
+        padding-top: 10px;
+    }
+
+    .image-logo {
+        padding-top: 8px;
+    }
+}
